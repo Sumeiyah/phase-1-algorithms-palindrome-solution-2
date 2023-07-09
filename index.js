@@ -1,4 +1,4 @@
-function isPalindrome(word) {
+function isPalindrome(word) { 
   // Write your algorithm here
 }
 
